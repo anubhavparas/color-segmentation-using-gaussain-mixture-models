@@ -12,7 +12,7 @@ Gaussians (N) are required to fit to the color histogram.
 - Implementation of Expectation-Maximization algorithm was done and can be found in [sample_em_learning.py](./Code/sample_em_learning.py).
 - EM algorithm was used to compute the model parameters, i.e. the means and variances of the N 1-D Gaussians.
 - Given the computed model parameters a color-segmented binary image was generated from the frames of the video sequence.
-- Elaborate explanation about the approach and the pipeline can be found in the [report](.Report.pdf)
+- Elaborate explanation about the approach and the pipeline can be found in the [report](./Report.pdf)
 
 
 ### Output:
