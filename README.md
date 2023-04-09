@@ -1,4 +1,4 @@
-# Underwater Buoy detection using Gaussian Mixture models and Expectation-Maximization Algorithm
+# Underwater Buoy detection using Gaussian Mixture Models (GMM) and Expectation-Maximization (EM) Algorithm
 
 This involves implementing the concept of color segmentation using Gaussian Mixture Models and Expectation Maximization techniques.
 - The input video sequence data has been captured underwater and shows three buoys of different colors, namely yellow, orange and green. They are almost circular in shape and are distinctly colored.
